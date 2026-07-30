@@ -1,0 +1,25 @@
+Employee_ID,Name,Age,Department,Salary(INR),Joining_Date,City,Email
+101,Pravin,22.0,IT,45000.0,2023-01-15,Pune,pravin@gmail.com
+102,Rahul,25.0,HR,38000.0,2022-02-20,Mumbai,rahul@gmail.com
+103,Sneha,24.0,Finance,292500.0,2021-03-10,Nagpur,sneha@gmail.com
+104,Amit,24.0,IT,47000.0,2022-06-18,Pune,amit@gmail.com
+105,Pooja,23.0,HR,292500.0,2023-04-25,Nashik,pooja@gmail.com
+106,Rohan,29.0,Finance,55000.0,2022-08-24,Mumbai,rohan@gmail.com
+107,Anjali,21.0,it,42000.0,2024-01-05,pune,anjali@gmail.com
+108, Neha ,26.0,HR,39000.0,2022-09-18,Mumbai,aarti@gmail.com
+109,Kiran,24.0,Finance,51000.0,2023-07-22,Nagpur,kiran@gmail.com
+110,Meena,24.0,IT,48000.0,2021-11-30,Pune,meena@gmail.com
+111,Vikas,24.0,Finance,40000.0,2022-08-15,Nashik,vikas@gmail.com
+112,Sachin,27.0,Finance,60000.0,2020-12-10,Mumbai,sachin@gmail.com
+113,Priya,23.0,IT,45000.0,2023-05-05,Pune,priya@gmail.com
+114,Akash,28.0,HR,292500.0,2022-10-10,Nagpur,akash@gmail.com
+115,Nikita,22.0,Finance,43000.0,2023-03-01,Pune,nikita@gmail.com
+116,Arjun,26.0,Finance,52000.0,2022-03-12,Mumbai,arjun@gmail.com
+117, Neha ,24.0,IT,46000.0,2023-02-18, Pune ,neha@gmail.com
+118,Ritesh,25.0,HR,292500.0,2022-01-12,Mumbai,ritesh@gmail
+119,Komal,24.0,Finance,49000.0,2023-08-14,Nagpur,komal@gmail.com
+120,Sameer,27.0,IT,47000.0,2022-05-30,Pune,sameer@gmail.com
+122,Aarti,23.0,HR,302400.0,2022-09-10,Pune,aarti@gmail.com
+123, Neha ,30.0,Finance,53000.0,2021-12-12,Nagpur,aarti@gmail.com
+124,Deepak,24.0,IT,47000.0,2023-01-20,Pune,deepak@gmail.com
+125,Priyanka,25.0,Finance,48000.0,2022-08-24,Mumbai,priyanka@gmail.com
